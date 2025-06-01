@@ -1,0 +1,252 @@
+<div class="employee-form-page">
+  <div class="card bg-dark text-light shadow mb-4">
+    <div class="card-header d-flex justify-content-between align-items-center">
+      <h5 class="mb-0">
+        {{ isEditMode ? 'Edit Employee' : 'Add New Employee' }}
+      </h5>
+      <button class="btn btn-outline-light btn-sm" (click)="cancel()">
+        <i class="bi bi-arrow-left me-1"></i>
+        Back to List
+      </button>
+    </div>
+
+    <div class="card-body">
+      <div *ngIf="loading" class="text-center py-4">
+        <div class="spinner-border text-light"></div>
+      </div>
+
+      <div *ngIf="errorMsg" class="alert alert-danger">{{ errorMsg }}</div>
+
+      <form
+        *ngIf="!loading"
+        [formGroup]="empForm"
+        (ngSubmit)="onSubmit()"
+        class="row g-3 mt-3"
+        autocomplete="off"
+      >
+        <!-- First Name -->
+        <div class="col-12 col-md-6">
+          <label for="firstName" class="form-label text-light"
+            >First Name</label
+          >
+          <input
+            type="text"
+            id="firstName"
+            class="form-control bg-secondary text-light"
+            formControlName="firstName"
+            [ngClass]="{
+              'is-invalid': empForm.get('firstName')?.invalid && empForm.get('firstName')?.touched
+            }"
+          />
+          <div class="invalid-feedback">First Name is required.</div>
+        </div>
+
+        <!-- Last Name -->
+        <div class="col-12 col-md-6">
+          <label for="lastName" class="form-label text-light">Last Name</label>
+          <input
+            type="text"
+            id="lastName"
+            class="form-control bg-secondary text-light"
+            formControlName="lastName"
+            [ngClass]="{
+              'is-invalid': empForm.get('lastName')?.invalid && empForm.get('lastName')?.touched
+            }"
+          />
+          <div class="invalid-feedback">Last Name is required.</div>
+        </div>
+
+        <!-- Email -->
+        <div class="col-12 col-md-6">
+          <label for="email" class="form-label text-light">Email</label>
+          <input
+            type="email"
+            id="email"
+            class="form-control bg-secondary text-light"
+            formControlName="email"
+            [ngClass]="{
+              'is-invalid': empForm.get('email')?.invalid && empForm.get('email')?.touched
+            }"
+          />
+          <div class="invalid-feedback">Valid email is required.</div>
+        </div>
+
+        <!-- Phone -->
+        <div class="col-12 col-md-6">
+          <label for="phone" class="form-label text-light">Phone</label>
+          <input
+            type="text"
+            id="phone"
+            class="form-control bg-secondary text-light"
+            formControlName="phone"
+            [ngClass]="{
+      'is-invalid': empForm.get('phone')?.invalid && empForm.get('phone')?.touched
+    }"
+          />
+          <div class="invalid-feedback">
+            <ng-container *ngIf="empForm.get('phone')?.errors?.['required']">
+              Phone is required.
+            </ng-container>
+            <ng-container *ngIf="empForm.get('phone')?.errors?.['pattern']">
+              Enter a valid phone number (e.g., +971501234567).
+            </ng-container>
+          </div>
+        </div>
+
+        <!-- Department -->
+        <div class="col-12 col-md-6">
+          <label for="department" class="form-label text-light"
+            >Department</label
+          >
+          <select
+            id="department"
+            class="form-select bg-dark text-light"
+            formControlName="department"
+            [ngClass]="{
+      'is-invalid': empForm.get('department')?.invalid && empForm.get('department')?.touched
+    }"
+          >
+            <option value="">-- Select Department --</option>
+            <option *ngFor="let dept of departments" [value]="dept">
+              {{ dept }}
+            </option>
+          </select>
+          <div class="invalid-feedback">Department is required.</div>
+        </div>
+
+        <!-- Designation -->
+        <div class="col-12 col-md-6">
+          <label for="designation" class="form-label text-light"
+            >Designation</label
+          >
+          <input
+            type="text"
+            id="designation"
+            class="form-control bg-secondary text-light"
+            formControlName="designation"
+            [ngClass]="{
+              'is-invalid': empForm.get('designation')?.invalid && empForm.get('designation')?.touched
+            }"
+          />
+          <div class="invalid-feedback">Designation is required.</div>
+        </div>
+        <!-- Role -->
+        <div class="col-12 col-md-6">
+          <label for="role" class="form-label text-light">Role</label>
+          <select
+            id="role"
+            class="form-select bg-dark text-light"
+            formControlName="role"
+            [ngClass]="{
+      'is-invalid': empForm.get('role')?.invalid && empForm.get('role')?.touched
+    }"
+          >
+            <option value="">-- Select Role --</option>
+            <option *ngFor="let role of roles" [value]="role">
+              {{ role }}
+            </option>
+          </select>
+          <div class="invalid-feedback">Role is required.</div>
+        </div>
+
+        <!-- Date of Joining -->
+        <div class="col-12 col-md-6">
+          <label for="dateOfJoining" class="form-label text-light"
+            >Date of Joining</label
+          >
+          <input
+            type="date"
+            id="dateOfJoining"
+            class="form-control bg-secondary text-light"
+            formControlName="dateOfJoining"
+            [ngClass]="{
+              'is-invalid': empForm.get('dateOfJoining')?.invalid && empForm.get('dateOfJoining')?.touched
+            }"
+          />
+          <div class="invalid-feedback">Date of Joining is required.</div>
+        </div>
+       
+        <div class="col-12 mt-5">
+          <h5 class="text-light">Login Credentials</h5>
+        </div>
+
+        <!-- Username -->
+        <div class="col-12 col-md-6">
+          <label for="username" class="form-label text-light">Username</label>
+          <input
+            type="text"
+            id="username"
+            name="employee-username"
+            class="form-control bg-secondary text-light"
+            formControlName="username"
+            [readonly]="true"
+            (focus)="removeReadonly($event)"
+            autocomplete="off"
+            [ngClass]="{
+              'is-invalid': empForm.get('username')?.invalid && empForm.get('username')?.touched
+            }"
+          />
+          <div class="invalid-feedback">
+            <ng-container *ngIf="empForm.get('username')?.hasError('required')">
+              Username is required.
+            </ng-container>
+            <ng-container
+              *ngIf="empForm.get('username')?.hasError('minlength')"
+            >
+              Must be at least 3 characters.
+            </ng-container>
+            <ng-container
+              *ngIf="empForm.get('username')?.hasError('usernameTaken')"
+            >
+              Username already exists.
+            </ng-container>
+          </div>
+        </div>
+        <!-- Password (only in Add mode) -->
+        <div class="col-12 col-md-6" *ngIf="!isEditMode">
+          <label for="password" class="form-label text-light">Password</label>
+          <input
+            type="password"
+            id="password"
+            name="employee-password"
+            [readonly]="true"
+            (focus)="removeReadonly($event)"
+            autocomplete="off"
+            class="form-control bg-secondary text-light"
+            formControlName="password"
+            [ngClass]="{
+      'is-invalid': empForm.get('password')?.invalid && empForm.get('password')?.touched
+    }"
+          />
+          <div class="invalid-feedback">
+            Password must be at least 8 characters and contain numbers &
+            letters.
+          </div>
+        </div>
+
+        <div class="col-12 mt-4 d-flex justify-content-end gap-2">
+          <button
+            type="button"
+            class="btn btn-outline-light"
+            (click)="cancel()"
+          >
+            Cancel
+          </button>
+          <button
+            type="submit"
+            class="btn btn-primary"
+            [disabled]="loading || empForm.invalid"
+          >
+            <span *ngIf="!loading">
+              {{ isEditMode ? 'Update Employee' : 'Create Employee' }}
+            </span>
+            <span
+              *ngIf="loading"
+              class="spinner-border spinner-border-sm"
+            ></span>
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

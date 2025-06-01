@@ -1,0 +1,78 @@
+.employee-form-page {
+  color: #eee;
+
+  .card {
+    background-color: #1c1c1c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  }
+
+  .card-header {
+    background-color: #2a2a2a;
+    border-bottom: 1px solid #444;
+  }
+
+  .form-label {
+    color: #ccc !important;
+  }
+
+  .form-control {
+    border: none;
+    border-radius: 5px;
+    background-color: #2a2a2a !important;
+    color: #eee !important;
+  }
+
+  .form-control::placeholder {
+    color: #aaa !important;
+  }
+
+  .is-invalid {
+    border: 1px solid #c0392b !important;
+  }
+
+  .invalid-feedback {
+    display: none;
+  }
+
+  .is-invalid ~ .invalid-feedback {
+    display: block; 
+  }
+
+  .btn-outline-light {
+    border-color: #555;
+    color: #fff;
+
+    &:hover {
+      background-color: #444;
+    }
+  }
+
+  .btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff;
+
+    &:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+  }
+  .form-select {
+  background-color: #2a2a2a !important;
+  color: #eee !important;
+  border: none;
+  border-radius: 5px;
+
+  &:focus {
+    box-shadow: none;
+    outline: 1px solid #555;
+  }
+
+  option {
+    background-color: #2a2a2a;
+    color: #eee;
+  }
+}
+
+}

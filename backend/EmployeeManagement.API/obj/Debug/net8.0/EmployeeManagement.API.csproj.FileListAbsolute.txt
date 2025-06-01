@@ -1,0 +1,308 @@
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\appsettings.Development.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\appsettings.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.staticwebassets.endpoints.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.exe
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.deps.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.runtimeconfig.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfo.cs
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.API.styles.css
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.build.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.development.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.API.props
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.API.props
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.API.props
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\Employee.3E9A2D24.Up2Date
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\refint\EmployeeManagement.API.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.genruntimeconfig.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\ref\EmployeeManagement.API.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Azure.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Azure.Identity.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Humanizer.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.CodeDom.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cs
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\AutoMapper.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\appsettings.Development.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\appsettings.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.staticwebassets.endpoints.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.exe
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.deps.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.runtimeconfig.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.API.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\AutoMapper.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Azure.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Azure.Identity.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Humanizer.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.CodeDom.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Memory.Data.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfo.cs
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cs
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.API.styles.css
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.build.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.development.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.API.props
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.API.props
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.API.props
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\Employee.3E9A2D24.Up2Date
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\refint\EmployeeManagement.API.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\EmployeeManagement.API.genruntimeconfig.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.API\obj\Debug\net8.0\ref\EmployeeManagement.API.dll

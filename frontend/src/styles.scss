@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.swal2-popup {
+  width: 320px !important;
+  padding: 1.2em !important;
+  font-size: 0.85rem !important;
+  background-color: #1e1e1e !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+}
+@media (max-width: 768px) {
+  body {
+    overflow-y: auto;
+  }
+}

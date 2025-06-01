@@ -1,0 +1,30 @@
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.deps.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfo.cs
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\Employee.16DA35CB.Up2Date
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\refint\EmployeeManagement.Application.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\ref\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.deps.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfo.cs
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\Employee.16DA35CB.Up2Date
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\refint\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\ref\EmployeeManagement.Application.dll

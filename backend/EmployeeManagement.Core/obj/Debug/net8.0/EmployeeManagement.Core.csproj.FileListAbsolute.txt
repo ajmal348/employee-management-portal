@@ -1,0 +1,22 @@
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll

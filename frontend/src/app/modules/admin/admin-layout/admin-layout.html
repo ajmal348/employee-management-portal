@@ -1,0 +1,102 @@
+<div class="admin-layout">
+  <aside class="sidebar">
+    <div class="profile-image-container text-center">
+      <img src="/ems-logo.png" class="avatar" alt="Admin Avatar" />
+    </div>
+
+    <nav class="nav flex-column basic-info">
+      <a routerLink="/me" routerLinkActive="active">
+        <i class="bi bi-speedometer2 me-2"></i> My Profile
+      </a>
+      <a routerLink="/employees" routerLinkActive="active">
+        <i class="bi bi-people-fill me-2"></i> Employees
+      </a>
+    </nav>
+  </aside>
+
+  <main class="main-content">
+    <header class="profile-header">
+      <h3><i class="bi bi-justify p-1"></i> Admin Panel</h3>
+
+      <div class="actions">
+        <i class="bi bi-search cursor-pointer" (click)="comingSoon($event)"></i>
+        <i class="bi bi-bell cursor-pointer" (click)="comingSoon($event)"></i>
+        <div
+          class="dropdown-container position-relative"
+          (click)="toggleDropdown()"
+        >
+          <img
+            [src]="'/profile-logo.webp'"
+            class="header-avatar"
+            alt="avatar"
+          />
+          <div
+            class="dropdown-menu position-absolute end-0 mt-2"
+            *ngIf="showDropdown"
+          >
+            <a
+              class="dropdown-item d-flex align-items-center gap-2"
+              routerLink="/me"
+            >
+              <i class="bi bi-person-circle"></i>
+              My Profile
+            </a>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2"
+              href="#"
+              (click)="comingSoon($event)"
+            >
+              <i class="bi bi-lock"></i>
+              Change Password
+            </a>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2"
+              href="#"
+              (click)="comingSoon($event)"
+            >
+              <i class="bi bi-gear"></i>
+              Settings
+            </a>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2"
+              href="#"
+              (click)="comingSoon($event)"
+            >
+              <i class="bi bi-question-circle"></i>
+              Help & FAQ
+            </a>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2"
+              href="#"
+              (click)="comingSoon($event)"
+            >
+              <i class="bi bi-file-earmark-text"></i>
+              Terms & Policies
+            </a>
+            <div class="dropdown-divider"></div>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 text-danger"
+              href="#"
+              (click)="logout()"
+            >
+              <i class="bi bi-box-arrow-right"></i>
+              Logout
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="content-area">
+      <div class="card admin-card shadow-sm">
+        <div class="card-body">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </section>
+    <!-- FOOTER SECTION -->
+    <footer class="admin-footer text-center">
+      © {{ currentYear }} Employee Management System. All rights reserved.
+    </footer>
+  </main>
+</div>

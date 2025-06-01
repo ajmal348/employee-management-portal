@@ -1,0 +1,38 @@
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.deps.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\Employee.66F3489C.Up2Date
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagement.Infrastructure.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagement.Infrastructure.dll
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.runtimeconfig.json
+H:\Me Services\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.genruntimeconfig.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.deps.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.runtimeconfig.json
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\Employee.66F3489C.Up2Date
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagement.Infrastructure.dll
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.genruntimeconfig.cache
+H:\MeServices\EmployeeManagement\EmployeeManagement.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagement.Infrastructure.dll

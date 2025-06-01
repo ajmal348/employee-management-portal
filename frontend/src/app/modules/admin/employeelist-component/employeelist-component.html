@@ -1,0 +1,40 @@
+<div class="table-actions d-flex justify-content-end mb-3">
+  <button class="btn btn-outline-light fw-semibold d-flex align-items-center gap-2 shadow-sm"
+          (click)="navigateToAddEmployee()">
+    <i class="bi bi-plus-circle-fill fs-5"></i>
+    Create New
+  </button>
+</div>
+<div class="table-container card shadow-sm">
+  <div class="table-wrapper">
+    <table class="table table-dark table-hover">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Phone</th>
+          <th>Department</th>
+          <th>Designation</th>
+          <th>Joined</th>
+          <th class="text-center">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let emp of employees; let i = index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ emp.firstName }} {{ emp.lastName }}</td>
+          <td>{{ emp.email }}</td>
+          <td>{{ emp.phone }}</td>
+          <td>{{ emp.department }}</td>
+          <td>{{ emp.designation }}</td>
+          <td>{{ emp.dateOfJoining | date: 'yyyy-MM-dd' }}</td>
+          <td class="action-icons">
+            <i class="bi bi-pencil-square text-warning" (click)="edit(emp.id)"></i>
+            <i class="bi bi-trash text-danger" (click)="delete(emp.id)"></i>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

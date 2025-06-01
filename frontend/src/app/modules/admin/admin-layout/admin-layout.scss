@@ -1,0 +1,229 @@
+.admin-layout {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: #121212;
+  color: #eee;
+  font-family: "Segoe UI", sans-serif;
+  overflow: hidden;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    height: auto;
+  }
+}
+
+.admin-footer {
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  color: #aaa;
+  background-color: #1c1c1c;
+  border-top: 1px solid #333;
+  text-align: center;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #000;
+  padding: 1rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
+  box-sizing: border-box;
+
+  .profile-image-container {
+    .avatar {
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      border: 2px solid #444;
+      object-fit: cover;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  .basic-info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+
+    a {
+      color: #ccc;
+      font-size: 0.95rem;
+      padding: 0.6rem 1rem;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      border-radius: 6px;
+      transition: background-color 0.2s;
+      margin-bottom: 0.5rem;
+
+      &.active,
+      &:hover {
+        background-color: #1c1c1c;
+        color: #fff;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #333;
+
+    .profile-image-container {
+      .avatar {
+        width: 50px;
+        height: 50px;
+      }
+    }
+
+    .basic-info {
+      flex-direction: row;
+      justify-content: flex-end;
+      gap: 0.5rem;
+      margin-top: 0;
+
+      a {
+        padding: 0.4rem 0.6rem;
+        font-size: 0.85rem;
+        margin-bottom: 0;
+        white-space: nowrap;
+      }
+    }
+  }
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+  overflow: auto;
+  width: 100%;
+}
+
+.content-area {
+  flex: 1;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 1.5rem;
+  min-height: 0;
+
+  @media (max-width: 768px) {
+    padding: 1rem;
+  }
+}
+
+.profile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1c1c1c;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #333;
+  flex-wrap: wrap;
+
+  h3 {
+    font-size: 1.2rem;
+    color: #fff;
+
+    i {
+      color: #7be2fc;
+    }
+  }
+
+  .actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+
+    i {
+      font-size: 1.1rem;
+      color: #ccc;
+      cursor: pointer;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    .dropdown-container {
+      position: relative;
+      display: inline-block;
+
+      .header-avatar {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+
+      .dropdown-menu {
+        position: absolute;
+        top: 110%;
+        right: 0;
+        background-color: #1c1c1c;
+        border-radius: 6px;
+        padding: 0.5rem 0;
+        min-width: 160px;
+        z-index: 9999;
+        display: block;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+
+        .dropdown-item {
+          padding: 0.5rem 1rem;
+          color: #eee;
+          display: block;
+          font-size: 0.9rem;
+          text-decoration: none;
+
+          &:hover {
+            background-color: #2a2a2a;
+          }
+        }
+
+        .dropdown-divider {
+          height: 1px;
+          background-color: #444;
+          margin: 0.5rem 0;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+}
+
+.admin-card {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #1c1c1c;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+
+  .card-body {
+    height: 100%;
+    padding: 0;
+    background-color: #121212;
+    color: #eee;
+  }
+}

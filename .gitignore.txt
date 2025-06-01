@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore build results
+*.dll
+*.exe
+
+# Ignore logs and temp files
+*.log
+
+# Ignore Angular/node modules
+node_modules/
+dist/
+.env
+
+# Ignore IDE settings
+.idea/
+*.iml
