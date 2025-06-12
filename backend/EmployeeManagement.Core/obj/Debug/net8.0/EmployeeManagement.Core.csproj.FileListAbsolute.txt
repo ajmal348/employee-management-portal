@@ -20,3 +20,15 @@ H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\Employ
 H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
 H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
 H:\MeServices\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.sourcelink.json
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\Ajmal\Documents\Interview-task-review\employee-management-portal\backend\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll

@@ -973,7 +973,7 @@
         },
         "runtime": {
           "EmployeeManagement.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -981,7 +981,7 @@
       "EmployeeManagement.Core/1.0.0": {
         "runtime": {
           "EmployeeManagement.Core.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -996,7 +996,7 @@
         },
         "runtime": {
           "EmployeeManagement.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

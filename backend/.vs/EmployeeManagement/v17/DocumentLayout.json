@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB488969-0CC4-4C0E-865D-E82C3C9B89A0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|h:\\meservices\\git\\employee-management-portal\\backend\\employeemanagement.infrastructure\\seeddata\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB488969-0CC4-4C0E-865D-E82C3C9B89A0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\seeddata\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.api\\models\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\models\\responses\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.api\\employeemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\employeemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3E0776-DB1E-4BC3-B9A3-4551BDCED754}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\ajmal\\documents\\interview-task-review\\employee-management-portal\\backend\\employeemanagement.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AB5F-E13C-4E26-B222-1E5532CA9222}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Infrastructure\\SeedData\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\SeedData\\DbSeeder.cs",
-              "ToolTip": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Infrastructure\\SeedData\\DbSeeder.cs",
-              "RelativeToolTip": "EmployeeManagement.Infrastructure\\SeedData\\DbSeeder.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwDIAAAAQAAAAAAAAAA==",
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\Models\\Responses\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Models\\Responses\\ApiErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\Models\\Responses\\ApiErrorResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Models\\Responses\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:47:55.264Z",
+              "WhenOpened": "2025-06-12T11:23:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManagement.API.http",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\EmployeeManagement.API.http",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\EmployeeManagement.API.http",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\EmployeeManagement.API.http",
+              "RelativeToolTip": "EmployeeManagement.API\\EmployeeManagement.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-12T11:23:01.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:20:18.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:18:21.089Z",
               "EditorCaption": ""
             }
           ]

@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rahul\\.nuget\\packages\\": {},
+    "C:\\Users\\Ajmal\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
       "projectName": "EmployeeManagement.Core",
-      "projectPath": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
-      "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Core\\obj\\",
+      "projectPath": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
+      "packagesPath": "C:\\Users\\Ajmal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ajmal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -67,12 +67,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.300, 9.0.300]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

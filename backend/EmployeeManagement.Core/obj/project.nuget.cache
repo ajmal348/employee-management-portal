@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rbit6LUQclI=",
+  "dgSpecHash": "dcYuJctwGxU=",
   "success": true,
-  "projectFilePath": "H:\\MeServices\\GIT\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ajmal\\Documents\\Interview-task-review\\employee-management-portal\\backend\\EmployeeManagement.Core\\EmployeeManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajmal\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512",
+    "C:\\Users\\Ajmal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Ajmal\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Ajmal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
